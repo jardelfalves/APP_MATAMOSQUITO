@@ -1,6 +1,8 @@
 # APP_MATAMOSQUITO
 <h1 align="center"> Mata Mosquito </h1>
 
+![image](https://user-images.githubusercontent.com/34045977/225374030-41335ffe-8c84-41cf-9e18-e11a5f42a5db.png)
+
 <br>
 
 
@@ -22,5 +24,5 @@ Jogo para matar mosquito em 3 níveis de dificuldades.
 
 <br>
 
-![image](https://user-images.githubusercontent.com/34045977/225374030-41335ffe-8c84-41cf-9e18-e11a5f42a5db.png)
+
 
