@@ -16,10 +16,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Jogo passatempo para matar mosquito. 
+Jogo para matar mosquito em 3 níveis de dificuldades. 
 
-- [Acesse aqui o projeto](https://caetanosbr.github.io/nlw-setup/)
+- [Acesse aqui o jogo](https://jardelfalves.github.io/APP_MATAMOSQUITO/)
 
 <br>
 
+![image](https://user-images.githubusercontent.com/34045977/225374030-41335ffe-8c84-41cf-9e18-e11a5f42a5db.png)
 
